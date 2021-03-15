@@ -1,1 +1,0 @@
-# extrema_ratio
